@@ -1,0 +1,222 @@
+{
+  "appInfo" : {
+    "build" : "202.7660.26",
+    "buildDate" : "Tue, 6 Oct 2020 16:32:34 +0800",
+    "productCode" : "IC",
+    "generated" : "Wed, 23 Dec 2020 09:27:28 +0800",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o. 11.0.8 11.0.8+10-b944.34"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 536870912,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "assetpoolbizGit",
+    "numberOfFileProviders" : 2,
+    "totalNumberOfFiles" : 2,
+    "times" : {
+      "indexingTime" : "19 s 433 ms",
+      "scanFilesTime" : "15 s 218 ms",
+      "pushPropertiesTime" : "3 s 746 ms",
+      "indexExtensionsTime" : "< 1 ms",
+      "pushPropertiesStart" : "Wed, 23 Dec 2020 09:27:08 +0800",
+      "pushPropertiesEnd" : "Wed, 23 Dec 2020 09:27:12 +0800",
+      "scanFilesStart" : "Wed, 23 Dec 2020 09:27:12 +0800",
+      "scanFilesEnd" : "Wed, 23 Dec 2020 09:27:27 +0800",
+      "indexExtensionsStart" : "Wed, 23 Dec 2020 09:27:12 +0800",
+      "indexExtensionsEnd" : "Wed, 23 Dec 2020 09:27:12 +0800",
+      "indexingStart" : "Wed, 23 Dec 2020 09:27:08 +0800",
+      "indexingEnd" : "Wed, 23 Dec 2020 09:27:28 +0800"
+    },
+    "numberOfIndexingThreads" : 4,
+    "totalStatsPerFileType" : [ {
+      "fileType" : "XML",
+      "partOfTotalIndexingTime" : "100.0%",
+      "partOfTotalContentLoadingTime" : "100.0%",
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : "7.01 kB",
+      "indexingSpeed" : "31.24 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'assetpoolbiz-service-inter'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "2.33 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "89.5%"
+      }, {
+        "providerName" : "Module 'assetpoolbiz-service-xml'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "4.68 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "10.5%"
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : "48.6%",
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : "7.01 kB",
+      "indexingSpeed" : "64.23 kB/s"
+    }, {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : "13.3%",
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : "7.01 kB",
+      "indexingSpeed" : "235.59 kB/s"
+    }, {
+      "indexId" : "fileIncludes",
+      "partOfTotalIndexingTime" : "12.4%",
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : "7.01 kB",
+      "indexingSpeed" : "251.6 kB/s"
+    }, {
+      "indexId" : "FrameworkDetectionIndex",
+      "partOfTotalIndexingTime" : "8.6%",
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : "7.01 kB",
+      "indexingSpeed" : "361.82 kB/s"
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : "8.6%",
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : "7.01 kB",
+      "indexingSpeed" : "365.35 kB/s"
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : "4.2%",
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : "7.01 kB",
+      "indexingSpeed" : "744.24 kB/s"
+    }, {
+      "indexId" : "RelaxSymbolIndex",
+      "partOfTotalIndexingTime" : "1.2%",
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : "7.01 kB",
+      "indexingSpeed" : "2.7 MB/s"
+    }, {
+      "indexId" : "DomFileIndex",
+      "partOfTotalIndexingTime" : "1.1%",
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : "7.01 kB",
+      "indexingSpeed" : "2.94 MB/s"
+    }, {
+      "indexId" : "ant-imports",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : "7.01 kB",
+      "indexingSpeed" : "4.14 MB/s"
+    }, {
+      "indexId" : "XsltSymbolIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : "7.01 kB",
+      "indexingSpeed" : "5.18 MB/s"
+    }, {
+      "indexId" : "xmlProperties",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : "7.01 kB",
+      "indexingSpeed" : "5.79 MB/s"
+    }, {
+      "indexId" : "IdeaPluginRegistrationIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : "7.01 kB",
+      "indexingSpeed" : "27.18 MB/s"
+    }, {
+      "indexId" : "devkit.ExtensionPointIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : "7.01 kB",
+      "indexingSpeed" : "106.57 MB/s"
+    }, {
+      "indexId" : "PluginIdModuleIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : "7.01 kB",
+      "indexingSpeed" : "132.8 MB/s"
+    }, {
+      "indexId" : "PluginIdDependenciesIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : "7.01 kB",
+      "indexingSpeed" : "147.93 MB/s"
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'assetpoolbiz-service-inter'",
+      "totalNumberOfFiles" : 1,
+      "totalIndexingTime" : "335 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "2.33 kB",
+        "partOfTotalIndexingTime" : "100.0%",
+        "partOfTotalContentLoadingTime" : "100.0%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "TodoIndex",
+        "partOfTotalIndexingTime" : "50.6%"
+      }, {
+        "indexId" : "Stubs",
+        "partOfTotalIndexingTime" : "14.4%"
+      }, {
+        "indexId" : "fileIncludes",
+        "partOfTotalIndexingTime" : "11.1%"
+      }, {
+        "indexId" : "FrameworkDetectionIndex",
+        "partOfTotalIndexingTime" : "9.6%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "7.1%"
+      }, {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "3.9%"
+      } ],
+      "fastIndexers" : [ "DomFileIndex", "IdeaPluginRegistrationIndex", "PluginIdDependenciesIndex", "PluginIdModuleIndex", "RelaxSymbolIndex", "XsltSymbolIndex", "ant-imports", "devkit.ExtensionPointIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Module 'assetpoolbiz-service-xml'",
+      "totalNumberOfFiles" : 1,
+      "totalIndexingTime" : "38 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "4.68 kB",
+        "partOfTotalIndexingTime" : "100.0%",
+        "partOfTotalContentLoadingTime" : "100.0%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "TodoIndex",
+        "partOfTotalIndexingTime" : "31.9%"
+      }, {
+        "indexId" : "fileIncludes",
+        "partOfTotalIndexingTime" : "23.5%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "21.2%"
+      }, {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "6.9%"
+      }, {
+        "indexId" : "XsltSymbolIndex",
+        "partOfTotalIndexingTime" : "4.0%"
+      }, {
+        "indexId" : "Stubs",
+        "partOfTotalIndexingTime" : "3.3%"
+      }, {
+        "indexId" : "xmlProperties",
+        "partOfTotalIndexingTime" : "3.3%"
+      }, {
+        "indexId" : "RelaxSymbolIndex",
+        "partOfTotalIndexingTime" : "2.6%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "partOfTotalIndexingTime" : "1.7%"
+      }, {
+        "indexId" : "ant-imports",
+        "partOfTotalIndexingTime" : "1.1%"
+      } ],
+      "fastIndexers" : [ "FrameworkDetectionIndex", "IdeaPluginRegistrationIndex", "PluginIdDependenciesIndex", "PluginIdModuleIndex", "devkit.ExtensionPointIndex" ]
+    } ]
+  }
+}

@@ -1,0 +1,22 @@
+<idea-plugin>
+  <version>1.0-SNAPSHOT</version>
+  <change-notes>
+      Add change notes here.&lt;br&gt;
+      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
+  <idea-version since-build="202.7660" until-build="202.*"/>
+  <id>com.burton.plugin.burtonPlugin</id>
+  <name>assetpoolDevlopPlugin</name>
+  <vendor email="1206610833@qq.com" url="http://www.baidu.com">无</vendor>
+  <description>This plug-in is used for assetPool development</description>
+  <depends>com.intellij.modules.platform</depends>
+  <depends>com.intellij.java</depends>
+  <extensions defaultExtensionNs="com.intellij">
+    <applicationService serviceInterface="com.burton.plugin.servicePublish.config.ServicePublishConfig" serviceImplementation="com.burton.plugin.servicePublish.config.ServicePublishConfig"/>
+    <applicationConfigurable instance="com.burton.plugin.servicePublish.config.ServicePublishConfigurable"/>
+  </extensions>
+  <actions>
+    <action id="publishXmlGeneration" class="com.burton.plugin.servicePublish.action.PublishXmlGenerationAction" text="publishXmlGeneration" description="资产池1.0后端服务发布">
+      <add-to-group group-id="ProjectViewPopupMenu" anchor="first"/>
+    </action>
+  </actions>
+</idea-plugin>

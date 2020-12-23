@@ -1,0 +1,18 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="UITheme.relaunch" value="true" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="file.chooser.recent.files" value="E:/IDEA_Files/Hundsun_Projects/assetpoolbizGit" />
+    <property name="file.gist.reindex.count" value="2501" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.3.72-release-IJ2020.1-6" />
+    <property name="lastSeenTip" value="neue-SurroundWith.html" />
+    <property name="lastTimeTipsWereShown" value="1608638794252" />
+    <property name="last_opened_file_path" value="E:/IDEA_Files/Hundsun_Projects/assetpoolbizGit" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1608638780236" />
+    <property name="seenTips" value="neue-SurroundWith.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+</application>

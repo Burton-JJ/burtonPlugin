@@ -1,0 +1,43 @@
+<project version="4">
+  <component name="ExternalSystemProjectTracker">
+    <option name="projectSettingsTrackerStates">
+      <map>
+        <entry>
+          <key>
+            <Id>
+              <option name="externalProjectPath" value="assetpoolbizGit" />
+              <option name="systemId" value="MAVEN" />
+            </Id>
+          </key>
+          <value>
+            <Project>
+              <option name="settingsTracker">
+                <State>
+                  <option name="dirty" value="false" />
+                  <option name="settingsFiles">
+                    <map>
+                      <entry key="$PROJECT_DIR$/pom.xml" value="50358789" />
+                      <entry key="$PROJECT_DIR$/tbsp-assetpoolbiz/assetpoolbiz-biz-impl/pom.xml" value="1576412807" />
+                      <entry key="$PROJECT_DIR$/tbsp-assetpoolbiz/assetpoolbiz-biz-inter/pom.xml" value="3082819260" />
+                      <entry key="$PROJECT_DIR$/tbsp-assetpoolbiz/assetpoolbiz-common/pom.xml" value="1776150675" />
+                      <entry key="$PROJECT_DIR$/tbsp-assetpoolbiz/assetpoolbiz-dao-impl/pom.xml" value="1627995724" />
+                      <entry key="$PROJECT_DIR$/tbsp-assetpoolbiz/assetpoolbiz-dao-inter/pom.xml" value="1135375396" />
+                      <entry key="$PROJECT_DIR$/tbsp-assetpoolbiz/assetpoolbiz-deploy/pom.xml" value="299978459" />
+                      <entry key="$PROJECT_DIR$/tbsp-assetpoolbiz/assetpoolbiz-service-impl/pom.xml" value="869164847" />
+                      <entry key="$PROJECT_DIR$/tbsp-assetpoolbiz/assetpoolbiz-service-inter/pom.xml" value="1781249892" />
+                      <entry key="$PROJECT_DIR$/tbsp-assetpoolbiz/assetpoolbiz-service-xml/pom.xml" value="1257075505" />
+                      <entry key="$PROJECT_DIR$/tbsp-assetpoolbiz/pom.xml" value="3598695749" />
+                    </map>
+                  </option>
+                </State>
+              </option>
+            </Project>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsLogIndexCollector">
+    <option name="indexTime" value="98616" />
+  </component>
+</project>

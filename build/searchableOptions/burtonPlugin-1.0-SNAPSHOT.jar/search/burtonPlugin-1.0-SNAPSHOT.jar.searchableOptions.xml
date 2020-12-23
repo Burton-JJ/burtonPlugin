@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="publishxmlgeneration" path="ActionManager" hit="publishXmlGeneration" />
+    <option name="" path="ActionManager" hit="资产池1.0后端服务发布" />
+    <option name="0" path="ActionManager" hit="资产池1.0后端服务发布" />
+    <option name="1" path="ActionManager" hit="资产池1.0后端服务发布" />
+  </configurable>
+  <configurable id="servicePublish.config" configurable_name="1.0ServicePublish">
+    <option name="0" hit="1.0      " />
+    <option name="1" hit="1.0      " />
+    <option name="0servicepublish" hit="1.0ServicePublish" />
+    <option name="1" hit="1.0ServicePublish" />
+    <option name="browser" hit="browser" />
+    <option name="commonjarpath" hit="commonJarPath" />
+    <option name="servicewrapperxmlpath" hit="serviceWrapperXmlPath" />
+    <option name="servicexmlpath" hit="serviceXmlPath" />
+  </configurable>
+</options>
+

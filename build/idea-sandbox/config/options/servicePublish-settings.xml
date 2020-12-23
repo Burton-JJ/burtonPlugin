@@ -1,0 +1,11 @@
+<application>
+  <component name="myServicePublishConfig">
+    <option name="configResult">
+      <map>
+        <entry key="commonJarPath" value="E:\Maven repository\com\hundsun\tbsp\common-common\1.2.3-mysql-SNAPSHOT\common-common-1.2.3-mysql-SNAPSHOT.jar" />
+        <entry key="serviceWrapperXmlPath" value="E:\IDEA_Files\Hundsun_Projects\assetpoolbizGit\tbsp-assetpoolbiz\assetpoolbiz-service-inter\src\main\resources\wrapper" />
+        <entry key="serviceXmlPath" value="E:\IDEA_Files\Hundsun_Projects\assetpoolbizGit\tbsp-assetpoolbiz\assetpoolbiz-service-xml\src\main\resources" />
+      </map>
+    </option>
+  </component>
+</application>
